@@ -1,0 +1,18 @@
+{
+  "https://demo.opencart.com": [
+    "https://demo.opencart.com/en-gb/product/macbook",
+    "https://demo.opencart.com/en-gb/product/macbook",
+    "https://demo.opencart.com/en-gb/product/iphone",
+    "https://demo.opencart.com/en-gb/product/iphone",
+    "https://demo.opencart.com/en-gb/product/apple-cinema",
+    "https://demo.opencart.com/en-gb/product/apple-cinema",
+    "https://demo.opencart.com/en-gb/product/canon-eos-5d",
+    "https://demo.opencart.com/en-gb/product/canon-eos-5d"
+  ],
+  "https://example2.com/": [],
+  "https://webscraper.io/test-sites/e-commerce/static": [
+    "https://webscraper.io/test-sites/e-commerce/static/product/64",
+    "https://webscraper.io/test-sites/e-commerce/static/product/77",
+    "https://webscraper.io/test-sites/e-commerce/static/product/2"
+  ]
+}
