@@ -33,8 +33,8 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Siva774/Web_Scraping.git
+
 
 
 2. Install Dependencies Make sure you have Node.js installed. Run the following command to install the required packages:
@@ -58,7 +58,7 @@ Usage
 
 1. Run the script:
 
-node index.js
+node crawler.js
 
 Replace index.js with the name of your file if it's different.
 
